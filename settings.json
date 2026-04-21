@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "bilalserver_1045.aternos.me",
+    "port": 12236,
     "version": "",
     "try-creative": false
   },
